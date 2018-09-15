@@ -1,0 +1,31 @@
+ul{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.App-header {
+  background: #803f71;
+  padding: 20px;
+}
+.App-header h1{
+  text-align: center;
+  /* border: solid 1px #ccc; */
+  color:#fff;
+}
+.wrapper{
+  text-align: center;
+  background: #e3e3ec;
+      padding: 20px;
+      width: 740px;
+      height: 365px;
+      
+}
+.item_container li{
+  margin: 0 auto;
+  text-align: center;
+  font-size: 15px;
+  padding: 5px;
+  width: 200px;
+  border:1px solid #ccc;
+  margin-bottom: 5px;
+}
